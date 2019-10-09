@@ -1,6 +1,6 @@
 SAMPLE
 
-This is a sample file created in MASTER.
+This is a sample file created in Branch.
 
 
 
