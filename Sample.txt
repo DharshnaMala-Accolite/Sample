@@ -6,4 +6,5 @@ This is the updated part of the File.
 
 Test branch 1 update
 
+Test Branch 2 update
 EOF
