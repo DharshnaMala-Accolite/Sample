@@ -2,6 +2,8 @@ SAMPLE
 
 This is a sample file created in Branch.
 
-This is the updated part of the File
+This is the updated part of the File.
+
+Test branch 1 update
 
 EOF
